@@ -1,19 +1,19 @@
 function especificarEntradas () {
     return [
       {
-        nombre: "capitulo 1: introduccion a Git", tipo: "text",
-        etiqueta: "cap 1",
-        ayuda: "cap 1"
+        nombre: "capitulo 4: introduccion a Git", tipo: "text",
+        etiqueta: "cap 4",
+        ayuda: "cap 4"
       },
       {
-        nombre: "capitulo 2: flujo de trabajo basico", tipo: "text",
-        etiqueta: "cap 2",
-        ayuda: "cap 2"
+        nombre: "capitulo 5: flujo de trabajo basico", tipo: "text",
+        etiqueta: "cap 5",
+        ayuda: "cap 5"
       },
       {
-        nombre: "capitulo 3: repositorios remotos", tipo: "text",
-        etiqueta: "cap 3",
-        ayuda: "cap 3"
+        nombre: "capitulo 6: repositorios remotos", tipo: "text",
+        etiqueta: "cap 6",
+        ayuda: "cap 6"
       }
     ]
 }
