@@ -14,11 +14,6 @@ function especificarEntradas () {
         nombre: "capitulo 3: gestion de ramas", tipo: "text",
         etiqueta: "cap 3",
         ayuda: "cap 3"
-      },
-      {
-        nombre: "capitulo 4: repositorio remotos", tipo: "text",
-        etiqueta: "cap 4",
-        ayuda: "cap 4"
       }
     ]
 }
