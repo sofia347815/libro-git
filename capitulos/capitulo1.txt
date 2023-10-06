@@ -9,6 +9,11 @@ function especificarEntradas () {
             nombre: "git es un sistema de control de versiones ideado por Linus Torvalds.", tipo: "text",
             etiqueta: "cap 1",
             ayuda: "cap 1"
+        },
+        {
+            nombre: "git es un sistema de control de versiones ideado por Linus Torvalds.", tipo: "text",
+            etiqueta: "cap 1",
+            ayuda: "cap 1"
         }
     ]
 }
